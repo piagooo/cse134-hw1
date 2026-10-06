@@ -1,3 +1,3 @@
 # CSE134B-<TermInfo>-HW1
-# Name:
-# PID:
+# Name: Sophia Gomez
+# PID: A16982455
